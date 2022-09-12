@@ -1,0 +1,59 @@
+*{
+    background-color:black;
+    color:white;
+    
+}
+.logo{
+    display:inline-block;
+    margin-top:1px;
+    width:40px;
+    height:40px;
+}
+.container{
+    background-color:white;
+}
+.button{
+    
+    position:relative;
+    display:inline-block;
+    color:black;
+    background-color:white;
+}
+.Title{
+    display:inline-block;
+    color:blue;
+    outline: 3px solid white;
+    margin-left:460px;
+
+}
+.MENU{
+    background-color:blue;
+    position:fixed;
+    width:800px;
+    height:400px;
+    margin-left:250px;
+    outline: 3px solid white;
+}
+#data{
+    display:inline-block;
+    outline: 3px solid white;
+    color:red;
+    height:800px;
+    width:150px;
+}
+
+#armSimulation{
+    display:inline-block;
+    outline: 3px solid white;
+    background-image: url("mars.jpg");
+}
+#up{
+    margin-left:680px;
+}
+#down{
+    margin-left:10px;
+}
+#armSimulation{
+    margin-left:40px;
+    margin-top:30px;
+}
